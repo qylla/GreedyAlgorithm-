@@ -36,11 +36,11 @@ This program demonstrates how **Min-Heap** and **Splay Tree** can be used in log
 
 ### (Replace with your actual console output)
 
-===== MIN-HEAP DEMO =====
-Next urgent ETA: 5h
+===== INDIVIDUAL TASK: SHIP LOGISTICS =====
+[Min-Heap] Next closest port distance: 15 nm
+[Max-Heap] Highest cargo demand: 120 tons
+[Splay] Port 205 (B) found? true (splayed to root)
 
-===== SPLAY TREE DEMO =====
-Root after splay: 30
 
 ### ▶️ How to Run
 1. Open the Java project.
